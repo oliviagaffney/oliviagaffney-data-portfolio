@@ -25,28 +25,28 @@ With fitness tracking on the rise, I analysed seven years' worth of Runkeeper da
 
 ---
 
-### 2. [Analysing Online Sports Revenue](link-to-project)
+### 2. [Analysing Online Sports Revenue](https://github.com/oliviagaffney/oliviagaffney-data-portfolio/blob/main/Analyzing%20Online%20Sports%20Revenue/notebooks/analysis.ipynb)
 I used Python to analyse product data for a sports retail company, focusing on revenue optimisation, customer ratings, and product descriptions. This analysis helped uncover insights into customer preferences and potential revenue growth strategies.
 
 **Key Skills:** Aggregation, data cleaning, labelling, revenue analysis
 
 ---
 
-### 3. [Data-Driven Product Management: Conducting a Market Analysis](link-to-project)
+### 3. [Data-Driven Product Management: Conducting a Market Analysis](https://github.com/oliviagaffney/oliviagaffney-data-portfolio/blob/main/Data-Driven%20Product%20Management%3A%20Conducting%20a%20Market%20Analysis/notebooks/analysis.ipynb)
 This project explores both local and global fitness markets to find business opportunities for new fitness products. I used data manipulation techniques and visualisations to guide product decisions based on trends in gym workouts, home gyms, and fitness products.
 
 **Key Skills:** Data manipulation, visualisation, market analysis
 
 ---
 
-### 4. [Real-time Insights from Social Media Data](link-to-project)
+### 4. [Real-time Insights from Social Media Data](https://github.com/oliviagaffney/oliviagaffney-data-portfolio/blob/main/Real-time%20Insights%20from%20Social%20Media%20Data/analysis.ipynb)
 I analysed real-time data from Twitter to understand trending topics and key influencers, including a focus on social media dynamics that affect global moods and market movements.
 
 **Key Skills:** Real-time data analysis, data cleaning, sentiment analysis
 
 ---
 
-### 5. [Will This Customer Purchase Your Product?](link-to-project)
+### 5. [Will This Customer Purchase Your Product?](https://github.com/oliviagaffney/oliviagaffney-data-portfolio/blob/main/Will%20This%20Customer%20Purchase%20Your%20Product%3F/notebooks/analysis.ipynb)
 This project identifies the browsing and shopping behaviour of new and returning customers using statistics and probability analysis. I helped the marketing team understand customer engagement on the website, improving their strategies.
 
 **Key Skills:** Descriptive statistics, probability, customer behaviour analysis
