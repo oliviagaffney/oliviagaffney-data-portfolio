@@ -1,10 +1,10 @@
-# Olivia Gaffney's Data Analytics Portfolio
+# 📊 Olivia Gaffney's Data Portfolio
 
-## About Me
+## 👩‍🎓 About Me
 
 I'm Olivia Gaffney, a **final-year Business Analytics student** at **Loughborough University**, passionate about using data to drive meaningful insights and solutions. With a strong interest in **technology** and the **fitness industry**, my goal is to become a **data analyst** who leverages data to optimise decision-making processes in organisations. This portfolio showcases my journey in developing data analytics skills, applying them across diverse projects that reflect my technical proficiency and personal interests.
 
-## Skills
+## 🛠️ Skills
 
 - **Programming Languages:** Python, SQL
 - **Tools and Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Git/GitHub
@@ -13,7 +13,7 @@ I'm Olivia Gaffney, a **final-year Business Analytics student** at **Loughboroug
 - **Data Visualisation:** Creating clear and informative visualisations using Python
 - **Other:** Experience with fitness data and interest in sports technology
 
-## Projects
+## 📁 Projects
 
 ### 1. [Analyse Your Runkeeper Fitness Data](https://github.com/oliviagaffney/oliviagaffney-data-portfolio/blob/main/Analyze%20Your%20Runkeeper%20Fitness%20Data/notebooks/analysis.ipynb)
 With fitness tracking on the rise, I analysed seven years' worth of Runkeeper data to provide insights into running performance and training goals. This project answers critical questions such as:
@@ -51,17 +51,17 @@ This project identifies the browsing and shopping behaviour of new and returning
 
 **Key Skills:** Descriptive statistics, probability, customer behaviour analysis
 
-## How I Work
+## 💼 How I Work
 
 Each of the projects in this portfolio demonstrates not only technical skills like data manipulation, cleaning, and analysis but also **problem-solving**, **communication**, and **collaboration**. Whether I'm digging deep into fitness data or exploring customer behaviours, I strive to provide actionable insights and compelling stories through data.
 
-## Interests
+## 🌟 Interests
 
 - **Fitness Industry:** I've always been involved in elite-level sports and enjoy exploring how data can improve performance and health.
 - **Technology:** I'm excited about the intersection of data and technology, particularly in areas such as sports tech, fitness apps, and product innovation.
 
-## CV and Contact Information
+## 📎 CV and Contact Information
 
-- [Link to my CV](link-to-cv)
 - [LinkedIn](https://www.linkedin.com/in/olivia-gaffney/)
 - [Email](mailto:oliviarosegaffney@gmail.com)
+
