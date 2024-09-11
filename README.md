@@ -60,7 +60,7 @@ Each of the projects in this portfolio demonstrates not only technical skills li
 - **Fitness Industry:** I've always been involved in elite-level sports and enjoy exploring how data can improve performance and health.
 - **Technology:** I'm excited about the intersection of data and technology, particularly in areas such as sports tech, fitness apps, and product innovation.
 
-## 📎 CV and Contact Information
+## 📬 Contact Information
 
 - [LinkedIn](https://www.linkedin.com/in/olivia-gaffney/)
 - [Email](mailto:oliviarosegaffney@gmail.com)
