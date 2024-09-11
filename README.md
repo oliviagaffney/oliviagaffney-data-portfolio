@@ -15,7 +15,7 @@ I'm Olivia Gaffney, a **final-year Business Analytics student** at **Loughboroug
 
 ## Projects
 
-### 1. [Analyse Your Runkeeper Fitness Data](analysis.ipynb)
+### 1. [Analyse Your Runkeeper Fitness Data](https://github.com/oliviagaffney/oliviagaffney-data-portfolio/blob/main/Analyze%20Your%20Runkeeper%20Fitness%20Data/notebooks/analysis.ipynb)
 With fitness tracking on the rise, I analysed seven years' worth of Runkeeper data to provide insights into running performance and training goals. This project answers critical questions such as:
 - How fast, long, and intense are my runs?
 - Am I achieving my fitness goals?
