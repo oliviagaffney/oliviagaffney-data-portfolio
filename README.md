@@ -63,5 +63,5 @@ Each of the projects in this portfolio demonstrates not only technical skills li
 ## CV and Contact Information
 
 - [Link to my CV](link-to-cv)
-- [LinkedIn](link-to-linkedin)
-- [Email](mailto:olivia@example.com)
+- [LinkedIn](https://www.linkedin.com/in/olivia-gaffney/)
+- [Email](mailto:oliviarosegaffney@gmail.com)
