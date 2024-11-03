@@ -2,7 +2,7 @@
 
 ## 👩‍🎓 About Me
 
-Hi! I'm Olivia Gaffney, a **final-year Business Analytics student** at **Loughborough University**, passionate about using data to drive meaningful insights and solutions. With a strong interest in **technology** and the **fitness industry**, my goal is to become a **data analyst** who leverages data to optimise decision-making processes in organisations. This portfolio showcases my journey in developing data analytics skills, applying them across diverse projects that reflect my technical proficiency and personal interests.
+Hi! I'm Olivia Gaffney, a **final-year Business Analytics student** at **Loughborough University**, passionate about using data to drive meaningful insights and solutions. With a strong interest in **technology** and the **sports and entertainment industry**, my goal is to become a **data analyst** who leverages data to optimise decision-making processes in organisations. This portfolio showcases my journey in developing data analytics skills, applying them across diverse projects that reflect my technical proficiency and personal interests.
 
 ## 🛠️ Skills
 
@@ -57,8 +57,8 @@ Each of the projects in this portfolio demonstrates not only technical skills li
 
 ## 🌟 Interests
 
-- **Fitness Industry:** I've always been involved in elite-level sports and enjoy exploring how data can improve performance and health.
-- **Technology:** I'm excited about the intersection of data and technology, particularly in areas such as sports tech, fitness apps, and product innovation.
+- **Sports and Entertainment Industry:** I've always been involved in elite-level sports and enjoy learning about the actual business activities that make sports happen. 
+- **Technology:** I'm excited about the intersection of data and technology, particularly in areas such as fan engagement, digital innovation, and enhancing user experience through insights and analytics.
 
 ## 📬 Contact Information
 
